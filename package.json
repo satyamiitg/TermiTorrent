@@ -1,0 +1,14 @@
+{
+  "name": "TermiTorrent",
+  "version": "1.0.0",
+  "description": "A bittorrent client for education purposes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mukulgarg",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.2"
+  }
+}
